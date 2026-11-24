@@ -41,7 +41,7 @@ def construir_dataframe_entrada(length_m, edad_media, lat, lng, features):
 # -------------------------------------------------------------------
 # FIXTURE DEL MODELO ENTRENADO
 # -------------------------------------------------------------------
-RUTA_MODELO = "modelo_type_dinosaurios.joblib"
+RUTA_MODELO = "models/modelo_type_dinosaurios.joblib"
 
 
 @pytest.fixture(scope="module")
