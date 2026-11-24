@@ -1,10 +1,5 @@
 # 🦖 Clasificador Taxonómico de Dinosaurios mediante Aprendizaje Automático
 
-![Python](https://shields.io)
-![Scikit-Learn](https://shields.io)
-![Streamlit](https://shields.io)
-![Pytest](https://shields.io)
-
 ## 📋 Descripción del Proyecto
 
 Este proyecto implementa un flujo completo (*end-to-end*) de **Aprendizaje Automático Supervisado** orientado a la clasificación del grupo taxonómico (`type`) de dinosaurios a partir de variables morfométricas, geocronológicas y paleogeográficas.
