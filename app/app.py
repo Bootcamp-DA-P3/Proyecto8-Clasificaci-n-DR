@@ -19,7 +19,7 @@ st.markdown(
 
 @st.cache_resource
 def cargar_modelo():
-    return joblib.load("modelo_type_dinosaurios.joblib")
+    return joblib.load("models/modelo_type_dinosaurios.joblib")
 
 
 try:
